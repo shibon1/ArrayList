@@ -1,2 +1,2 @@
 # ArrayList
-Podemos inserir/modificar/eliminar/listar Formanodos/Cursos/Disciplinas
+Podemos inserir/modificar/eliminar/listar Formandos/Cursos/Disciplinas
